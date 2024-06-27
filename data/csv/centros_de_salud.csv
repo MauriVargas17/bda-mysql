@@ -1,0 +1,101 @@
+id_centro_de_salud,id_localidad,id_contacto,direccion,created_at,updated_at
+1,3,119,"Avenida Vigil 578 Edif. 124 , Depto. 423
+San Marco Antonio los bajos, TLAX 90513-3299",2024-06-25 22:02:45,2024-06-25 22:02:45
+2,15,21,"Circunvalación Oaxaca 851 092
+Vieja Dinamarca, BCS 97286-9354",2024-06-25 22:02:45,2024-06-25 22:02:45
+3,1,145,"Prolongación Sur Páez 805 Edif. 777 , Depto. 897
+San Daniel de la Montaña, COL 98752",2024-06-25 22:02:45,2024-06-25 22:02:45
+4,4,135,"Periférico Sur Reyna 270 Edif. 686 , Depto. 906
+San Yuridia los bajos, TAMPS 29060-5652",2024-06-25 22:02:45,2024-06-25 22:02:45
+5,12,178,"Circuito Bermúdez 269 Interior 496
+Nueva Nigeria, COAH 10120",2024-06-25 22:02:45,2024-06-25 22:02:45
+6,5,18,"Andador Etiopía 570 Edif. 740 , Depto. 330
+San Martha los altos, SIN 76993",2024-06-25 22:02:45,2024-06-25 22:02:45
+7,13,89,"Eje vial Tabasco 997 Edif. 124 , Depto. 240
+Nueva República Checa, TLAX 49010-3002",2024-06-25 22:02:45,2024-06-25 22:02:45
+8,11,133,"Calle Sur Aponte 919 Interior 386
+San Eduardo de la Montaña, COL 04642",2024-06-25 22:02:45,2024-06-25 22:02:45
+9,15,198,"Callejón Norte Padrón 277 Edif. 841 , Depto. 622
+Vieja Santa Lucía, CAMP 99609-2814",2024-06-25 22:02:45,2024-06-25 22:02:45
+10,13,164,"Boulevard Zacatecas 320 Edif. 660 , Depto. 062
+Vieja Yemen, OAX 70279-7153",2024-06-25 22:02:45,2024-06-25 22:02:45
+11,15,166,"Calle Sur Villegas 186 Interior 275
+Nueva Mongolia, BC 43962",2024-06-25 22:02:45,2024-06-25 22:02:45
+12,5,17,"Diagonal Iraq 992 330
+San Anabel de la Montaña, SIN 38035",2024-06-25 22:02:45,2024-06-25 22:02:45
+13,1,67,"Continuación Norte Ornelas 475 945
+San Rubén los altos, COL 19507-5694",2024-06-25 22:02:45,2024-06-25 22:02:45
+14,10,139,"Calle Flórez 843 Interior 784
+San Isabela de la Montaña, CHIS 14429-3291",2024-06-25 22:02:45,2024-06-25 22:02:45
+15,4,57,"Cerrada Durango 413 Edif. 765 , Depto. 186
+Nueva Togo, MEX 21477-1298",2024-06-25 22:02:45,2024-06-25 22:02:45
+16,1,78,"Pasaje Sur Garay 146 929
+San Leonel los altos, ZAC 40053",2024-06-25 22:02:45,2024-06-25 22:02:45
+17,7,69,"Diagonal Guanajuato 156 963
+San José de la Montaña, DF 54435-3083",2024-06-25 22:02:45,2024-06-25 22:02:45
+18,3,27,"Viaducto Barajas 493 Edif. 062 , Depto. 414
+San José los bajos, HGO 51433",2024-06-25 22:02:45,2024-06-25 22:02:45
+19,2,5,"Boulevard Jalisco 110 239
+Nueva Kazajstán, COL 73837",2024-06-25 22:02:45,2024-06-25 22:02:45
+20,5,56,"Retorno Oaxaca 735 Interior 777
+Vieja Reino Unido de Gran Bretaña e Irlanda del Norte, NAY 25673",2024-06-25 22:02:45,2024-06-25 22:02:45
+21,1,27,"Ampliación Kazajstán 543 Interior 739
+Vieja Liechtenstein, TAB 39763-9926",2024-06-25 22:02:45,2024-06-25 22:02:45
+22,6,174,"Diagonal Mónaco 153 Edif. 873 , Depto. 929
+Nueva Francia, VER 97381",2024-06-25 22:02:45,2024-06-25 22:02:45
+23,15,10,"Eje vial Pacheco 765 151
+Nueva Federación de Rusia, HGO 87481-0790",2024-06-25 22:02:45,2024-06-25 22:02:45
+24,2,57,"Privada Valladares 622 Edif. 571 , Depto. 336
+San Paola los altos, CHIH 68358-2668",2024-06-25 22:02:45,2024-06-25 22:02:45
+25,10,192,"Peatonal Côte d'Ivoire 997 869
+Nueva Líbano, PUE 16465-6057",2024-06-25 22:02:45,2024-06-25 22:02:45
+26,4,60,"Prolongación Estados Unidos de América 323 187
+San Carmen los altos, SLP 51960",2024-06-25 22:02:45,2024-06-25 22:02:45
+27,11,33,"Diagonal Norte Gaona 342 Interior 620
+San Karina de la Montaña, CAMP 41520",2024-06-25 22:02:45,2024-06-25 22:02:45
+28,11,41,"Ampliación Norte Serna 187 107
+San Joaquín los bajos, SON 07288-3936",2024-06-25 22:02:45,2024-06-25 22:02:45
+29,14,33,"Eje vial Líbano 605 356
+San Guadalupe los bajos, SLP 62169",2024-06-25 22:02:45,2024-06-25 22:02:45
+30,7,139,"Prolongación Granados 156 Edif. 335 , Depto. 470
+Vieja Letonia, NL 86089-6126",2024-06-25 22:02:45,2024-06-25 22:02:45
+31,6,103,"Andador Tamaulipas 857 Edif. 889 , Depto. 783
+San Serafín los altos, NL 90046-1717",2024-06-25 22:02:45,2024-06-25 22:02:45
+32,9,130,"Boulevard Chipre 988 Edif. 366 , Depto. 857
+San Andrés los altos, MOR 97035",2024-06-25 22:02:45,2024-06-25 22:02:45
+33,14,37,"Calle Norte Balderas 672 962
+San Jorge Luis los bajos, TAB 98999-4463",2024-06-25 22:02:45,2024-06-25 22:02:45
+34,3,191,"Boulevard Durango 697 Edif. 787 , Depto. 850
+Vieja Venezuela, CAMP 09092-5492",2024-06-25 22:02:45,2024-06-25 22:02:45
+35,6,142,"Pasaje Ballesteros 453 515
+San Liliana los bajos, QRO 72238",2024-06-25 22:02:45,2024-06-25 22:02:45
+36,3,77,"Calzada Sáenz 317 Edif. 890 , Depto. 687
+Vieja Indonesia, ZAC 15345-4061",2024-06-25 22:02:45,2024-06-25 22:02:45
+37,4,99,"Eje vial Segura 636 130
+Nueva Saint Kitts y Nevis, QRO 07213-4390",2024-06-25 22:02:45,2024-06-25 22:02:45
+38,13,54,"Calle Sur Sierra 309 865
+San Maximiliano de la Montaña, NL 59025",2024-06-25 22:02:45,2024-06-25 22:02:45
+39,13,186,"Corredor Amador 477 975
+Nueva Fiji, Q. ROO 76120",2024-06-25 22:02:45,2024-06-25 22:02:45
+40,5,191,"Callejón Baja California Sur 410 Edif. 492 , Depto. 208
+Nueva Mongolia, BC 68188-4472",2024-06-25 22:02:45,2024-06-25 22:02:45
+41,14,188,"Calzada Tamaulipas 783 Interior 084
+San Judith de la Montaña, NAY 87165-7344",2024-06-25 22:02:45,2024-06-25 22:02:45
+42,15,175,"Avenida Norte Niño 988 981
+Nueva República Unida de Tanzanía, GRO 11847",2024-06-25 22:02:45,2024-06-25 22:02:45
+43,13,188,"Circuito Gabón 639 Interior 210
+San Judith los bajos, ZAC 13735-2029",2024-06-25 22:02:45,2024-06-25 22:02:45
+44,11,162,"Prolongación Olivares 428 959
+San Marcos de la Montaña, SIN 18219-3497",2024-06-25 22:02:45,2024-06-25 22:02:45
+45,9,22,"Privada Arabia Saudita 500 772
+San Violeta los bajos, PUE 08769-3398",2024-06-25 22:02:45,2024-06-25 22:02:45
+46,15,127,"Corredor Nuevo León 671 Interior 648
+Vieja República de Corea, BCS 17957",2024-06-25 22:02:45,2024-06-25 22:02:45
+47,14,107,"Circunvalación Libia 841 Edif. 793 , Depto. 008
+Vieja Côte d'Ivoire, ZAC 83804",2024-06-25 22:02:45,2024-06-25 22:02:45
+48,8,21,"Periférico Maestas 447 Edif. 655 , Depto. 216
+San Blanca de la Montaña, JAL 17600-7374",2024-06-25 22:02:45,2024-06-25 22:02:45
+49,2,115,"Calzada Norte Montemayor 817 Edif. 739 , Depto. 959
+Nueva Fiji, YUC 32036-2713",2024-06-25 22:02:45,2024-06-25 22:02:45
+50,8,164,"Diagonal Mauritania 848 Interior 322
+San Arturo los altos, MEX 51326",2024-06-25 22:02:45,2024-06-25 22:02:45

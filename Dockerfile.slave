@@ -1,0 +1,14 @@
+FROM mysql:8.0
+
+ENV MYSQL_ROOT_PASSWORD=rootpassword
+ENV MYSQL_DATABASE=SEDES
+ENV MYSQL_REPLICATION_ROLE=slave
+ENV MYSQL_REPLICATION_MASTER=mysql_master
+ENV MYSQL_REPLICATION_USER=replicator
+ENV MYSQL_REPLICATION_PASSWORD=replpassword
+ENV MYSQL_LOG_CONSOLE=1
+
+COPY ./config/slave.cnf /etc/mysql/conf.d/my.cnf
+COPY ./config/slave/*.sql /docker-entrypoint-initdb.d/
+
+EXPOSE 3306

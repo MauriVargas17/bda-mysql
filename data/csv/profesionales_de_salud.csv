@@ -1,0 +1,51 @@
+id_profesional,nombre,apellido,disponibilidad,id_especialidad,id_contacto,created_at,updated_at
+1,Irma,Nieves,No Disponible,7,134,2024-06-25 22:02:45,2024-06-25 22:02:45
+2,Bernardo,Maldonado,Disponible,13,93,2024-06-25 22:02:45,2024-06-25 22:02:45
+3,Marcela,Camacho,No Disponible,8,68,2024-06-25 22:02:45,2024-06-25 22:02:45
+4,María del Carmen,Gastélum,Disponible,12,17,2024-06-25 22:02:45,2024-06-25 22:02:45
+5,Felipe,Alonzo,Disponible,14,183,2024-06-25 22:02:45,2024-06-25 22:02:45
+6,Minerva,Lugo,Disponible,1,70,2024-06-25 22:02:45,2024-06-25 22:02:45
+7,Elisa,Campos,No Disponible,15,166,2024-06-25 22:02:45,2024-06-25 22:02:45
+8,Amelia,Arredondo,No Disponible,15,140,2024-06-25 22:02:45,2024-06-25 22:02:45
+9,Soledad,Garrido,No Disponible,2,160,2024-06-25 22:02:45,2024-06-25 22:02:45
+10,Ernesto,Valverde,Disponible,15,71,2024-06-25 22:02:45,2024-06-25 22:02:45
+11,Ariadna,Lucio,No Disponible,10,68,2024-06-25 22:02:45,2024-06-25 22:02:45
+12,Esparta,Ordóñez,Disponible,14,186,2024-06-25 22:02:45,2024-06-25 22:02:45
+13,Mariano,Pelayo,Disponible,15,85,2024-06-25 22:02:45,2024-06-25 22:02:45
+14,Alfonso,Gutiérrez,No Disponible,12,178,2024-06-25 22:02:45,2024-06-25 22:02:45
+15,Luis Miguel,Leal,No Disponible,7,171,2024-06-25 22:02:45,2024-06-25 22:02:45
+16,Zeferino,Medina,Disponible,10,132,2024-06-25 22:02:45,2024-06-25 22:02:45
+17,Antonio,Calderón,Disponible,9,108,2024-06-25 22:02:45,2024-06-25 22:02:45
+18,Cornelio,Salcido,No Disponible,5,70,2024-06-25 22:02:45,2024-06-25 22:02:45
+19,Karina,Guajardo,No Disponible,6,6,2024-06-25 22:02:45,2024-06-25 22:02:45
+20,Karla,Fernández,No Disponible,6,140,2024-06-25 22:02:45,2024-06-25 22:02:45
+21,Benjamín,Almaraz,Disponible,6,30,2024-06-25 22:02:45,2024-06-25 22:02:45
+22,Graciela,Haro,Disponible,10,48,2024-06-25 22:02:45,2024-06-25 22:02:45
+23,Samuel,Jaime,No Disponible,1,59,2024-06-25 22:02:45,2024-06-25 22:02:45
+24,Abel,Corrales,Disponible,15,102,2024-06-25 22:02:45,2024-06-25 22:02:45
+25,Aldonza,Valdés,No Disponible,6,91,2024-06-25 22:02:45,2024-06-25 22:02:45
+26,Elisa,Cabán,No Disponible,13,111,2024-06-25 22:02:45,2024-06-25 22:02:45
+27,Flavio,Santana,No Disponible,12,173,2024-06-25 22:02:45,2024-06-25 22:02:45
+28,Diego,Córdova,No Disponible,10,58,2024-06-25 22:02:45,2024-06-25 22:02:45
+29,Yeni,Aguayo,No Disponible,15,2,2024-06-25 22:02:45,2024-06-25 22:02:45
+30,Caridad,Covarrubias,No Disponible,10,36,2024-06-25 22:02:45,2024-06-25 22:02:45
+31,Daniela,Corrales,Disponible,10,88,2024-06-25 22:02:45,2024-06-25 22:02:45
+32,Mauro,Ulibarri,Disponible,1,140,2024-06-25 22:02:45,2024-06-25 22:02:45
+33,Salvador,González,Disponible,1,198,2024-06-25 22:02:45,2024-06-25 22:02:45
+34,Alfonso,Guzmán,Disponible,10,107,2024-06-25 22:02:45,2024-06-25 22:02:45
+35,Rosalia,Miranda,Disponible,15,17,2024-06-25 22:02:45,2024-06-25 22:02:45
+36,Concepción,Hernández,Disponible,7,184,2024-06-25 22:02:45,2024-06-25 22:02:45
+37,Frida,Santiago,No Disponible,13,59,2024-06-25 22:02:45,2024-06-25 22:02:45
+38,Homero,Barrientos,No Disponible,11,156,2024-06-25 22:02:45,2024-06-25 22:02:45
+39,Eric,Razo,No Disponible,7,164,2024-06-25 22:02:45,2024-06-25 22:02:45
+40,Hernán,Alcala,Disponible,2,164,2024-06-25 22:02:45,2024-06-25 22:02:45
+41,Mariana,Negrón,No Disponible,9,111,2024-06-25 22:02:45,2024-06-25 22:02:45
+42,Estela,Riojas,No Disponible,2,40,2024-06-25 22:02:45,2024-06-25 22:02:45
+43,Darío,Bermúdez,No Disponible,8,12,2024-06-25 22:02:45,2024-06-25 22:02:45
+44,Olivia,Vázquez,No Disponible,14,35,2024-06-25 22:02:45,2024-06-25 22:02:45
+45,Adela,Yáñez,Disponible,10,131,2024-06-25 22:02:45,2024-06-25 22:02:45
+46,Lucas,Olvera,Disponible,7,109,2024-06-25 22:02:45,2024-06-25 22:02:45
+47,Dalia,Escobedo,Disponible,3,74,2024-06-25 22:02:45,2024-06-25 22:02:45
+48,Abigail,Alonso,No Disponible,10,150,2024-06-25 22:02:45,2024-06-25 22:02:45
+49,Miriam,Barraza,Disponible,12,83,2024-06-25 22:02:45,2024-06-25 22:02:45
+50,Jacobo,Bermúdez,No Disponible,8,171,2024-06-25 22:02:45,2024-06-25 22:02:45

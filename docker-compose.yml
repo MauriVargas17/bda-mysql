@@ -1,0 +1,36 @@
+version: '3.7'
+
+services:
+  mysql_master:
+    build:
+      context: .
+      dockerfile: Dockerfile.master
+    container_name: mysql_master
+    ports:
+      - "3307:3306"
+    networks:
+      - mysql_net
+    volumes:
+      - master_data:/var/lib/mysql
+
+  mysql_slave:
+    build:
+      context: .
+      dockerfile: Dockerfile.slave
+    container_name: mysql_slave
+    ports:
+      - "3308:3306"
+    depends_on:
+      - mysql_master
+    networks:
+      - mysql_net
+    volumes:
+      - slave_data:/var/lib/mysql
+
+volumes:
+  master_data:
+  slave_data:
+
+networks:
+  mysql_net:
+    driver: bridge
